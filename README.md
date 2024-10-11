@@ -1,2 +1,2 @@
-# PersonalFinance-
+# PersonalFinance
 Personal finance, with AI
